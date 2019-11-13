@@ -1,9 +1,9 @@
 {
-    "name": "game_0x0",
-    "short_name": "game_0x0",
-    "description": "game_0x0",
-    "start_url": "/",
+    "name": "Tama Click",
+    "short_name": "TamaClick",
+    "start_url": "/index.html",
     "display": "standalone",
+    "orientation": "portrait",
     "theme_color": "#3f51b5",
     "background_color": "#3f51b5",
     "icons": [
