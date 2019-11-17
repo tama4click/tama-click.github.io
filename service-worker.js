@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["index.html","854dcce426f00be681eefe59f72c2216"],["src/components/tama-click.js","e692c64758a6430a4a5e91f164f68df9"]];
+var precacheConfig = [["index.html","854dcce426f00be681eefe59f72c2216"],["src/components/tama-click.js","d6bb5c168275465aab35b4aab7166edb"]];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
 
 
